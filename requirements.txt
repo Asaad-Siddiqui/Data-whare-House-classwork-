@@ -1,0 +1,11 @@
+jupyter
+jupyterlab
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+requests
+beautifulsoup4
